@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BPNN/BPNN.iml" filepath="$PROJECT_DIR$/BPNN/BPNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DblpRetrieval/DblpRetrieval.iml" filepath="$PROJECT_DIR$/DblpRetrieval/DblpRetrieval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessManager/ProcessManager.iml" filepath="$PROJECT_DIR$/ProcessManager/ProcessManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleJavaApp.iml" filepath="$PROJECT_DIR$/SimpleJavaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tooklit/Tooklit.iml" filepath="$PROJECT_DIR$/Tooklit/Tooklit.iml" />
+    </modules>
+  </component>
+</project>
